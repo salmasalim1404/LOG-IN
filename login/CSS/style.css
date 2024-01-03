@@ -1,0 +1,25 @@
+body{
+    background-color: #24353f;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+section{
+    height: 100vh;
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+section .container{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
